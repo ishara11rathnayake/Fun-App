@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FunApp</string>
+
+    <string name="activities">Activity</string>
+    <string name="services">Services</string>
+    <string name="c_providers">Content Providers</string>
+    <string name="b_receivers">Broadcast Receivers</string>
+
+    <string name="app_component">App Component</string>
+
+    <string name="activity_example">Activity Example</string>
+    <string name="content_provider_example">Content Provider Example</string>
+    <string name="service_example">Service Example</string>
+    <string name="broadcast_receiver_example">Broadcast Receiver Example</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+
+</resources>
